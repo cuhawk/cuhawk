@@ -1,9 +1,9 @@
 # Hi there, I'm Cuhawk, Also known as Soural! 👋
 
-Welcome to my GitHub profile! I'm a [Your Role] passionate about [Your Interests]. Here you'll find some of my work and projects.
+Welcome to my GitHub profile! I'm a Bug Bounty Hunter passionate about Gaming and Security. Here you'll find some of my work and projects.
 
 ## 🚀 About Me
-- 🛠️ I'm currently working on new game engine in C++ for chess!!
+- 🛠️ I'm currently working on new game engine in C++ for chess with SFML!!
 - 🔭 I’m also working on `Burp Suite Certified Practitioner Certification` (BSCP by PortSwigger) and `Red Team Ops` (CRTO by RastaMouse)
 - 🌱 I’m currently learning `Go for DevOps`
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/souralcuhawk/)
